@@ -1,4 +1,4 @@
-Sound Vault - provides a seamless experience with your favourite media. You can search, save, and play music, videos, books without losing access to it.
+Media Vault - provides a seamless experience with your favourite media. You can search, save, and play music, videos, books without losing access to it.
 
 Functionality list for this app:
 - Search for all media/specific kind of media
